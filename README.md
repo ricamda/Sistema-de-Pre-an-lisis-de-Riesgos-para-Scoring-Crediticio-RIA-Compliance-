@@ -1,0 +1,2 @@
+# Sistema-de-Pre-an-lisis-de-Riesgos-para-Scoring-Crediticio-RIA-Compliance-
+Este proyecto implementa una solución de Inteligencia Artificial diseñada para automatizar el pre-análisis de riesgos (normativos, técnicos y operativos) en el despliegue de sistemas de IA dentro del sector financiero.  Desarrollado en el marco del LLMTHON LEGAL 2026 organizado por Cátedra Legaltech resolviendo el reto de Andersen &amp; 1MillionBot.
